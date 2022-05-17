@@ -130,15 +130,15 @@ plt.show()
 ## Output:
 ### SOBEL EDGE DETECTOR
 
-#### Sobel X:
+Sobel X:
 <br>
 <img width="564" alt="1" src="https://user-images.githubusercontent.com/93427011/168776614-eecbbc8e-43ab-4b08-aa9d-1810507883cd.png">
 <br>
-#### Sobel Y:
+Sobel Y:
 <br>
 <img width="564" alt="2" src="https://user-images.githubusercontent.com/93427011/168776692-a739ffbe-b80d-4bc6-8207-a0f1a7043366.png">
 <br>
-#### Sobel XY:
+Sobel XY:
 <br>
 <img width="564" alt="3" src="https://user-images.githubusercontent.com/93427011/168776791-d1c6bea3-5fe0-4fc1-829a-8dbdbcd3b4fa.png">
 <br>
